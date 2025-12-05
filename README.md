@@ -6,6 +6,7 @@ Users can add tasks quickly, mark them as completed, or delete them with a singl
 All tasks are automatically stored in a local JSON file, ensuring that entries remain intact even after restarting the program.
 
 🚀 Features
+
 ✔️ Add new tasks easily
 ✔️ Mark tasks as completed
 ✔️ Delete tasks instantly
