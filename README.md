@@ -31,7 +31,7 @@ CustomTkinter (CTk)
 
 JSON for storage
 
-How to Run
+🛠️ How to Run
 
 Install dependencies
 
