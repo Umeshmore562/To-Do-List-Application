@@ -24,14 +24,21 @@ All tasks are automatically stored in a local JSON file, ensuring that entries r
 <img width="683" height="848" alt="image" src="https://github.com/user-attachments/assets/342d7529-600d-4919-b9e2-9b333b6f7c9b" />
 
 🛠️ Technologies Used
+
 Python 3.x
+
 CustomTkinter (CTk)
+
 JSON for storage
 
 How to Run
+
 Install dependencies
+
 --bash
   pip install customtkinter
+  
 Run the application
+
 --bash
   python app.py
